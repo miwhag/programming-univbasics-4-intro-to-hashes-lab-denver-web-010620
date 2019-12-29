@@ -63,5 +63,5 @@ else
 end
 end
 
-update_counting_hash(fruit, "orange"ß)
+update_counting_hash(fruit, "orange")
 
