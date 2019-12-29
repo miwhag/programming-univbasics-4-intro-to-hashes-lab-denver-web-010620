@@ -61,6 +61,7 @@ def update_counting_hash(hash, key)
 else
   fruit[key] = 1
 end
+return fruit 
 end
 
 update_counting_hash(fruit, "orange")
