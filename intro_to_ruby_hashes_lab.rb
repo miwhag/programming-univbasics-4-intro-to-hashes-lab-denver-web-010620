@@ -52,7 +52,7 @@ read_from_hash(h = {:key1 =>100}, :key1)
 
 
 def update_counting_hash(hash, key)
-  33
+
   fruit = {
   "apple" => 3,
   "kiwi" => 5, 
