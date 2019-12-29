@@ -52,10 +52,11 @@ read_from_hash(h = {:key1 =>100}, :key1)
 
 
 
-  fruit = {"apple" => 3,"kiwi" => 5, "banaana" => 8 }
+
 
 def update_counting_hash(hash, key)
-
+  fruit = {"apple" => 3,"kiwi" => 5, "banaana" => 8 }
+  
   if fruit[key]
   fruit[key] += 1
 else
