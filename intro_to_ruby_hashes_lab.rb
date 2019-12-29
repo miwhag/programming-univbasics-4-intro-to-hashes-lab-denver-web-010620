@@ -63,4 +63,5 @@ else
 end
 end
 
+update_counting_hash(fruit, "orange"ß)
 
